@@ -1,4 +1,4 @@
-= Notes from *How Can The Human Mind Occur In The Physical Universe* =
+# Notes from *How Can The Human Mind Occur In The Physical Universe*
 
 
 pg 40-41 "3. Unlike the rational approach and some connectionist
